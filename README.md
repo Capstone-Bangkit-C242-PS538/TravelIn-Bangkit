@@ -1,6 +1,5 @@
 # TravelIn: Personalized Travel Destination Recommendation using Collaborative and Content-Based Filtering
 ## Bangkit Capstone Project
-![Logo atau gambar proyek](link-ke-gambar)
 
 Bangkit Capstone Team ID : C242-PS538	 <br>
 Here is our team Capstone Product Based repository for Bangkit 2024 Capstone project. Our team consist of 2 Mobile Development, 2 Machine Learning, and 1 Cloud Computing.
@@ -18,6 +17,11 @@ Here is our team Capstone Product Based repository for Bangkit 2024 Capstone pro
 ## About this project
 
 ...
+
+## Documentation
+
+![TravelinApp](https://github.com/nabhanyuzqi1/Bangkit-Capstone-C23-PS321/blob/main/assets/obeng-main.png)<br>
+
 
 ## Instalasi
 Langkah-langkah untuk menginstal dan menjalankan proyek ini di mesin lokal Anda.
