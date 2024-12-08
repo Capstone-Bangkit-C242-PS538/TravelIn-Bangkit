@@ -7,6 +7,16 @@
 ## Tim
 **Team ID**: : C242-PS538		  
 **Anggota Tim**:
+**Machine Learning**:
+- Samuel Christian Hamdani https://www.linkedin.com/in/samuel-christian-hamdani
+- Michele Alvera Lolang https://www.linkedin.com/in/michelle-lolang/
+- Rendie Abdi Saputra https://www.linkedin.com/in/rendie-abdi-saputra-32b629258
+
+**Cloud Computing**:
+- Muhammad Reihan Alfarizi https://www.linkedin.com/in/muhammad-reihan-alfarizi-59b55a322
+- Daddiyan Ariev Imantha https://www.linkedin.com/in/daddiyan-ariev-imantha
+
+**Machine Learning**:
 - Samuel Christian Hamdani https://www.linkedin.com/in/samuel-christian-hamdani
 - Michele Alvera Lolang https://www.linkedin.com/in/michelle-lolang/
 - Anggota 3 (Role/Posisi)
