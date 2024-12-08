@@ -16,10 +16,8 @@
 - Muhammad Reihan Alfarizi https://www.linkedin.com/in/muhammad-reihan-alfarizi-59b55a322
 - Daddiyan Ariev Imantha https://www.linkedin.com/in/daddiyan-ariev-imantha
 
-**Machine Learning**:
-- Samuel Christian Hamdani https://www.linkedin.com/in/samuel-christian-hamdani
-- Michele Alvera Lolang https://www.linkedin.com/in/michelle-lolang/
-- Anggota 3 (Role/Posisi)
+**Mobile Development**:
+- Charisya Silvara Malingan https://www.linkedin.com/in/charisyasilvaramaligan?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_ap)
 
 ## Table of Contents
 - [Instalasi](#installation)
