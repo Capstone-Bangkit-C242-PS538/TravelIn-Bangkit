@@ -2,7 +2,7 @@
 ## Bangkit Capstone Project
 ![Logo atau gambar proyek](link-ke-gambar)
 
-Bangkit Capstone Team ID : : C242-PS538	 <br>
+Bangkit Capstone Team ID : C242-PS538	 <br>
 Here is our team Capstone Product Based repository for Bangkit 2024 Capstone project. Our team consist of 2 Mobile Development, 2 Machine Learning, and 1 Cloud Computing.
 
 
@@ -26,8 +26,7 @@ Here is our team Capstone Product Based repository for Bangkit 2024 Capstone pro
 
 ## About this project
 
-Obeng (Online Bengkel) is an innovative application that provides vehicle repair and service solutions. With Obeng, users can easily find skilled and reliable automotive technicians to handle their vehicle repairs. The application facilitates users in searching, booking, and monitoring the repair process in real-time. Enjoy a convenient and trustworthy vehicle repair experience with the Obeng app.
-
+...
 
 ## Instalasi
 Langkah-langkah untuk menginstal dan menjalankan proyek ini di mesin lokal Anda.
