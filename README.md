@@ -5,7 +5,7 @@
 ![Logo atau gambar proyek](link-ke-gambar)
 
 ## Tim
-**Nama Tim**: Shuttle Crew  
+**Team ID**: Shuttle Crew  
 **Anggota Tim**:
 - Samuel Christian Hamdani https://www.linkedin.com/in/samuel-christian-hamdani
 - Michele Alvera Lolang https://www.linkedin.com/in/michelle-lolang/
