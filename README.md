@@ -9,9 +9,9 @@ Here is our team Capstone Product Based repository for Bangkit 2024 Capstone pro
 |              Name              | Bangkit-ID |   Learning Path    |                                                       Contact Link                                                       |
 | :----------------------------: | :--------: | :----------------: | :----------------------------------------------------------------------------------------------------------------------: |
 | Samuel Christian Hamdani | M009B4KY4054	 |  Machine Learning |            [LinkedIn](..) or [GitHub](...)             |
-| Michele Alvera Lolang | ... |  Machine Learning |            [LinkedIn](..) or [GitHub](...)             |
-| Rendie Abdi Saputra | ... |  Machine Learning |            [LinkedIn](..) or [GitHub](...)             |
-| Muhammad Reihan Alfarizi | ... |  Cloud Computing |            [LinkedIn](..) or [GitHub](...)             |
+| Michele Alvera Lolang |  M197B4KX2489		 |  Machine Learning |            [LinkedIn](..) or [GitHub](...)             |
+| Rendie Abdi Saputra |  M179B4KY3746		 |  Machine Learning |            [LinkedIn](..) or [GitHub](...)             |
+| Muhammad Reihan Alfarizi | C134B4KY3029		 |  Cloud Computing |            [LinkedIn](..) or [GitHub](...)             |
 | Daddiyan Ariev Imantha | C134B4KY0958 |  Cloud Computing |            [LinkedIn](..) or [GitHub](...)             |
 | Charisya Silvara Malingan  |  A384B4KX0918	 |  Mobile Development |            [LinkedIn](..) or [GitHub](...)             |
 
