@@ -16,7 +16,7 @@ Here is our team Capstone Product Based repository for Bangkit 2024 Capstone pro
 
 ## About this project
 
-...
+The TravelIn project aims to enhance the travel experience for tourists in Indonesia by developing a machine learning-based application that provides personalized travel destination recommendations. By analyzing user preferences and destination characteristics, the app suggests places such as cultural sites, culinary hubs, and natural landmarks tailored to individual interests. Addressing the common issue of mismatched travel experiences, the project seeks to improve tourist satisfaction, boost destination visibility, and promote local tourism. By leveraging collaborative and content-based filtering techniques, TravelIn aspires to make itinerary planning seamless and encourage exploration of Indonesia's diverse attractions.
 
 ## Documentation
 
