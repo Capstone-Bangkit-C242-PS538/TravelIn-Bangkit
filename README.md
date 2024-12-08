@@ -7,8 +7,8 @@
 ## Tim
 **Nama Tim**: Shuttle Crew  
 **Anggota Tim**:
-- 1. Samuel Christian Hamdani https://www.linkedin.com/in/samuel-christian-hamdani
-- Anggota 2 (Role/Posisi)
+- Samuel Christian Hamdani https://www.linkedin.com/in/samuel-christian-hamdani
+- Michele Alvera Lolang https://www.linkedin.com/in/michelle-lolang/
 - Anggota 3 (Role/Posisi)
 
 ## Table of Contents
