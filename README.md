@@ -26,9 +26,9 @@ The TravelIn project aims to enhance the travel experience for tourists in Indon
 
 |    Branch Name     |                                      Branch Link                                         |
 | :----------------: | :--------------------------------------------------------------------------------------: |
-| Mobile Development | [MD Branch](...) |
-|  Cloud Computing   | [CC Branch](...)      |
-|  Machine Learning  | [ML Branch](...)       |
+| Mobile Development | [MD Branch](https://github.com/Capstone-Bangkit-C242-PS538/TravelIn-Bangkit/tree/Mobile_Development) |
+|  Cloud Computing   | [CC Branch](https://github.com/Capstone-Bangkit-C242-PS538/TravelIn-Bangkit/tree/Cloud_Computing)      |
+|  Machine Learning  | [ML Branch](https://github.com/Capstone-Bangkit-C242-PS538/TravelIn-Bangkit/tree/Machine_Learning)       |
 
 ## API Documentations
 
