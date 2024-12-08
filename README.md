@@ -32,7 +32,7 @@ The TravelIn project aims to enhance the travel experience for tourists in Indon
 
 ## API Documentations
 
-API Documentation Endpoint : [Endpoint](...)
+API Documentation Endpoint : [Endpoint](test)
 
 ## Dataset
 Dataset Links of This Project :
