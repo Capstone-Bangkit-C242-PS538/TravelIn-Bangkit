@@ -16,13 +16,6 @@ Here is our team Capstone Product Based repository for Bangkit 2024 Capstone pro
 | Charisya Silvara Malingan  | ... |  Mobile Development |            [LinkedIn](..) or [GitHub](...)             |
 
 
-**Cloud Computing**:
-- Muhammad Reihan Alfarizi https://www.linkedin.com/in/muhammad-reihan-alfarizi-59b55a322
-- Daddiyan Ariev Imantha https://www.linkedin.com/in/daddiyan-ariev-imantha
-
-**Mobile Development**:
-- Charisya Silvara Malingan https://www.linkedin.com/in/charisyasilvaramaligan?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_ap)
-
 ## Table of Contents
 - [Instalasi](#installation)
 - [Penggunaan](#usage)
