@@ -15,15 +15,6 @@ Here is our team Capstone Product Based repository for Bangkit 2024 Capstone pro
 | Daddiyan Ariev Imantha | C134B4KY0958 |  Cloud Computing |            [LinkedIn](https://www.linkedin.com/in/daddiyan-ariev-imantha) or [GitHub](...)             |
 | Charisya Silvara Malingan  |  A384B4KX0918	 |  Mobile Development |            [LinkedIn](https://www.linkedin.com/in/charisyasilvaramaligan?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app) or [GitHub](...)             |
 
-
-## Table of Contents
-- [Instalasi](#installation)
-- [Penggunaan](#usage)
-- [Fitur](#features)
-- [Kontribusi](#contributing)
-- [Lisensi](#license)
-- [Kontak](#contact)
-
 ## About this project
 
 ...
