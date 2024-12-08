@@ -20,7 +20,7 @@ Here is our team Capstone Product Based repository for Bangkit 2024 Capstone pro
 
 ## Documentation
 
-![TravelinApp](https://github.com/nabhanyuzqi1/Bangkit-Capstone-C23-PS321/blob/main/assets/obeng-main.png)<br>
+![TravelinApp](...)<br>
 
 
 ## Instalasi
