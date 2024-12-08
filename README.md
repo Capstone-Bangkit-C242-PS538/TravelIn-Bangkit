@@ -20,7 +20,7 @@ Here is our team Capstone Product Based repository for Bangkit 2024 Capstone pro
 
 ## Documentation
 
-![TravelinApp](...)<br>
+![TravelinApp](link-gambar)<br>
 
 
 ## Instalasi
