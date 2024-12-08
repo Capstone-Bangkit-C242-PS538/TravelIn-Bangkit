@@ -22,6 +22,23 @@ Here is our team Capstone Product Based repository for Bangkit 2024 Capstone pro
 
 ![TravelinApp](link-gambar)<br>
 
+## Repositories
+
+|    Branch Name     |                                      Branch Link                                         |
+| :----------------: | :--------------------------------------------------------------------------------------: |
+| Mobile Development | [MD Branch](...) |
+|  Cloud Computing   | [CC Branch](...)      |
+|  Machine Learning  | [ML Branch](...)       |
+
+## API Documentations
+
+API Documentation Endpoint : [Endpoint](...)
+
+Dataset Links of This Project :
+
+- [Dataset 1](..)
+- [Dataset 2](..)
+
 
 ## Instalasi
 Langkah-langkah untuk menginstal dan menjalankan proyek ini di mesin lokal Anda.
