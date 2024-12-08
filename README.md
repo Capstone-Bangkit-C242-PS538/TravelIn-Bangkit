@@ -1,16 +1,20 @@
 # TravelIn-Bangkit
-
-**Deskripsi singkat proyek Anda**
-
+## Bangkit Capstone Project
 ![Logo atau gambar proyek](link-ke-gambar)
 
-## Tim
-**Team ID**: : C242-PS538		  
-**Anggota Tim**:
-**Machine Learning**:
-- Samuel Christian Hamdani https://www.linkedin.com/in/samuel-christian-hamdani
-- Michele Alvera Lolang https://www.linkedin.com/in/michelle-lolang/
-- Rendie Abdi Saputra https://www.linkedin.com/in/rendie-abdi-saputra-32b629258
+Bangkit Capstone Team ID : : C242-PS538	 <br>
+Here is our team Capstone Product Based repository for Bangkit 2024 Capstone project. Our team consist of 2 Mobile Development, 2 Machine Learning, and 1 Cloud Computing.
+
+
+|              Name              | Bangkit-ID |   Learning Path    |                                                       Contact Link                                                       |
+| :----------------------------: | :--------: | :----------------: | :----------------------------------------------------------------------------------------------------------------------: |
+| Samuel Christian Hamdani | ... |  Machine Learning |            [LinkedIn](..) or [GitHub](...)             |
+| Michele Alvera Lolang | ... |  Machine Learning |            [LinkedIn](..) or [GitHub](...)             |
+| Rendie Abdi Saputra | ... |  Machine Learning |            [LinkedIn](..) or [GitHub](...)             |
+| Muhammad Reihan Alfarizi | ... |  Cloud Computing |            [LinkedIn](..) or [GitHub](...)             |
+| Daddiyan Ariev Imantha | ... |  Cloud Computing |            [LinkedIn](..) or [GitHub](...)             |
+| Charisya Silvara Malingan  | ... |  Mobile Development |            [LinkedIn](..) or [GitHub](...)             |
+
 
 **Cloud Computing**:
 - Muhammad Reihan Alfarizi https://www.linkedin.com/in/muhammad-reihan-alfarizi-59b55a322
