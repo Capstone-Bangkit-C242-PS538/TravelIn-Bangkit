@@ -21,3 +21,7 @@ Here is our repository for the Bangkit 2024 Capstone project - Cloud Computing.
 ## CLOUD ARCHITECTURE
 ![TravelinCloudArchitecture](https://github.com/Capstone-Bangkit-C242-PS538/TravelIn-Bangkit/blob/Cloud_Computing/Architecture/Travelin-Architecture.jpg)
 
+## <a name="docum"></a>TravelIn DOCUMENTATION API
+### TravelIn Endpoint Documentation 
+[TravelIn Endpoint Documentation](...)
+
