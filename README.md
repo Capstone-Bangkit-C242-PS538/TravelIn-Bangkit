@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # TravelIn: Personalized Travel Destination Recommendation using Collaborative and Content-Based Filtering
 ## Bangkit Capstone Project
 
@@ -43,3 +44,6 @@ Dataset Links of This Project :
 
 ## Instalasi
 Langkah-langkah untuk menginstal dan menjalankan proyek ini di mesin lokal Anda.
+=======
+test
+>>>>>>> b8a02d9523e6fe2e390672b04165d8c2dcfa81cd
