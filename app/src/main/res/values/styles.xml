@@ -1,0 +1,5 @@
+<resources>
+    <style name="OvalShapeAppearance" parent="ShapeAppearance.MaterialComponents">
+        <item name="cornerSize">50%</item>
+    </style>
+</resources>

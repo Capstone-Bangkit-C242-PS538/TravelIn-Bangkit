@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools">
+
+    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+
+    <application
+        android:allowBackup="true"
+        android:dataExtractionRules="@xml/data_extraction_rules"
+        android:fullBackupContent="@xml/backup_rules"
+        android:icon="@drawable/travelin"
+        android:label="Travelin"
+        android:roundIcon="@drawable/travelin"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.TesCapstone"
+        tools:targetApi="31">
+        <activity
+            android:name=".DetailTopActivity"
+            android:exported="false" />
+        <activity
+            android:name=".SplashScreenActivity"
+            android:exported="true"
+            android:theme="@style/Theme.TesCapstone">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".DetailActivity"
+            android:exported="true" /> <!-- Menambahkan intent filter untuk MainActivity -->
+        <activity
+            android:name=".MainActivity"
+            android:theme="@style/Theme.TesCapstone" /> <!-- Aktivitas lainnya -->
+        <activity
+            android:name=".network.PlacesApi"
+            android:exported="false" />
+        <activity
+            android:name=".network.ApiClient"
+            android:exported="false" />
+        <activity
+            android:name=".model.Place"
+            android:exported="false" />
+        <activity
+            android:name=".adapter.PlaceAdapter"
+            android:exported="false" />
+    </application>
+
+</manifest>

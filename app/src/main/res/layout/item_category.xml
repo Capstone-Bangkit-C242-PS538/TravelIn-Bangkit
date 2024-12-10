@@ -1,0 +1,22 @@
+<!-- category_item.xml -->
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:orientation="vertical"
+    android:gravity="center"
+    android:padding="10dp">
+
+    <!-- Circular Image -->
+    <de.hdodenhof.circleimageview.CircleImageView
+        android:id="@+id/categoryImage"
+        android:layout_width="65dp"
+        android:layout_height="65dp"
+        />
+
+    <!-- Category Label -->
+    <TextView
+        android:id="@+id/categoryLabel"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"/>
+</LinearLayout>
