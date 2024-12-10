@@ -11,11 +11,12 @@ Here is our repository for the Bangkit 2024 Capstone project - Cloud Computing.
 ## TOOLS
 - JavaScript
 - Node js
-- Framework : Express js
+- Framework : Hapi js
 - Google Cloud Platform
 - Firebase
 - Postman
-- Midtrans
+- Draw.io
+- Google Cloud Pricing Calculator
 
 ## CLOUD ARCHITECTURE
 ![TravelinCloudArchitecture](...)
