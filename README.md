@@ -19,5 +19,5 @@ Here is our repository for the Bangkit 2024 Capstone project - Cloud Computing.
 - Google Cloud Pricing Calculator
 
 ## CLOUD ARCHITECTURE
-![TravelinCloudArchitecture](...)
+![TravelinCloudArchitecture](https://github.com/Capstone-Bangkit-C242-PS538/TravelIn-Bangkit/blob/Cloud_Computing/Architecture/Travelin-Architecture.jpg)
 
