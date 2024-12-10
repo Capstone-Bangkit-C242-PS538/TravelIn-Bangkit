@@ -27,7 +27,7 @@ Cloud Computing have responsible for creating and managing APIs, databases and s
 [TravelIn Endpoint Documentation](https://documenter.getpostman.com/view/39612721/2sAYBXAAAY)
 
 ## Google Cloud Pricing Calculator
-![EstimatedCostperMonth](..)
+![EstimatedCostperMonth](https://github.com/Capstone-Bangkit-C242-PS538/TravelIn-Bangkit/blob/Cloud_Computing/Estimated%20Cost%20of%20Travelin.pdf)
 
 
 
