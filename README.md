@@ -23,7 +23,7 @@ Here is our repository for the Bangkit 2024 Capstone project - Cloud Computing.
 
 ## <a name="docum"></a>TravelIn DOCUMENTATION API
 ### TravelIn Endpoint Documentation
-![TravelinAPIDocumentation](https://github.com/Capstone-Bangkit-C242-PS538/TravelIn-Bangkit/blob/Cloud_Computing/Architecture/Travelin-Architecture.jpg)
+![TravelinAPIDocumentation](https://github.com/Capstone-Bangkit-C242-PS538/TravelIn-Bangkit/blob/Cloud_Computing/Architecture/postman.jpg)
 [TravelIn Endpoint Documentation](...)
 
 
