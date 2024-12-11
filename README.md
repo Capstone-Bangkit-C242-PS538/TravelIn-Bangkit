@@ -31,8 +31,8 @@ The TravelIn project aims to enhance the travel experience for tourists in Indon
 |  Machine Learning  | [ML Branch](https://github.com/Capstone-Bangkit-C242-PS538/TravelIn-Bangkit/tree/Machine_Learning)       |
 
 ## API Documentations
+[TravelIn API Documentation on Postman](https://documenter.getpostman.com/view/39612721/2sAYBXAAAY)
 
-API Documentation Endpoint : [Endpoint](https://documenter.getpostman.com/view/39612721/2sAYBXAAAY)
 
 ## Dataset
 Dataset Links of This Project :
