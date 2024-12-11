@@ -21,8 +21,8 @@ Cloud Computing have responsible for creating and managing APIs, databases and s
 ## CLOUD ARCHITECTURE
 ![TravelinCloudArchitecture](https://github.com/Capstone-Bangkit-C242-PS538/TravelIn-Bangkit/blob/Cloud_Computing/Architecture/Travelin-Architecture.jpg)
 
-## <a name="docum"></a>TravelIn DOCUMENTATION API
-![TravelIn Endpoint Documentation](https://documenter.getpostman.com/view/39612721/2sAYBXAAAY)<br>
+## TravelIn DOCUMENTATION API
+[TravelIn API Documentation on Postman](https://documenter.getpostman.com/view/39612721/2sAYBXAAAY)
 
 ![APIDOC](https://github.com/Capstone-Bangkit-C242-PS538/TravelIn-Bangkit/blob/Cloud_Computing/Architecture/postman.jpg)
 
