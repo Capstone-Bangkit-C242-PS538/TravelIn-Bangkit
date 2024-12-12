@@ -9,6 +9,8 @@ Cloud Computing have responsible for creating and managing APIs, databases and s
 
 
 ## TOOLS
+![TravelinCloudArchitecture](https://github.com/Capstone-Bangkit-C242-PS538/TravelIn-Bangkit/blob/Cloud_Computing/Architecture/tools.jpg)
+
 - JavaScript
 - Node js
 - Framework : Hapi js
