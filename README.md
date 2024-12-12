@@ -23,6 +23,7 @@ Cloud Computing have responsible for creating and managing APIs, databases and s
 
 ## TravelIn DOCUMENTATION API
 ![APIDOC](https://github.com/Capstone-Bangkit-C242-PS538/TravelIn-Bangkit/blob/Cloud_Computing/Architecture/Postman-logo-orange-2021_1155x.png)
+We use Poostman as a documentation of our API is because of its intuitive and structured platform for describing endpoints, parameters, headers, and API responses. Features like Collections, Environment Variables, and API Documentation make it easier to manage interactive and developer-friendly documentation. Additionally, its direct integration with API testing ensures that the documentation remains accurate and up-to-date with the latest functionality.
 
 [TravelIn API Documentation on Postman](https://documenter.getpostman.com/view/39612721/2sAYBXAAAY)
 
