@@ -2,7 +2,7 @@
 ## Bangkit Capstone Project
 
 Bangkit Capstone Team ID : C242-PS538	 <br>
-Here is our team Capstone Product Based repository for Bangkit 2024 Capstone project. Our team consist of 2 Mobile Development, 3 Machine Learning, and 1 Cloud Computing students.
+Here is our team Capstone Product Based repository for Bangkit 2024 Capstone project. Our team consist of 1 Mobile Development, 3 Machine Learning, and 2 Cloud Computing students.
 
 
 |              Name              | Bangkit-ID |   Learning Path    |                                                       Contact Link                                                       |
