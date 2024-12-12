@@ -46,7 +46,7 @@ Dataset Links of This Project :
 2. Train and Val Loss <br>
 ![TravelinApp](https://github.com/Capstone-Bangkit-C242-PS538/TravelIn-Bangkit/blob/Machine_Learning/Assets/train.jpg)<br>
 
-1. Trest Accurancy <br>
+1. Test Accurancy <br>
 ![TravelinApp](https://github.com/Capstone-Bangkit-C242-PS538/TravelIn-Bangkit/blob/Machine_Learning/Assets/accurancy.jpg)<br>
 
 
