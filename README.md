@@ -2,11 +2,10 @@
 ## Bangkit Capstone Project
 
 Bangkit Capstone Team ID : C242-PS538	 <br>
-Here is our repository for the Bangkit 2024 Capstone project - Cloud Computing.
+Here is our repository for the Bangkit 2024 Capstone project - Machine Learning.
 
 ## DESCRIPTION
-Cloud Computing have responsible for creating and managing APIs, databases and servers. We also provide services needed by the Mobile Development and Machine Learning divisions, so that the features we have designed in this mobile application, the data and information entered by users and technicians can be properly used, stored and maintained.
-
+The Machine Learning model can be used to provide information about a content-based filtering approach for its recommendation system, providing personalized and accurate recommendations for users.
 
 ## TOOLS
 
