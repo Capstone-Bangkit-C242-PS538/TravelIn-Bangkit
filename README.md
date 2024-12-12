@@ -18,6 +18,8 @@ Cloud Computing have responsible for creating and managing APIs, databases and s
 - Draw.io
 - Google Cloud Pricing Calculator
 
+## CLOUD ARCHITECTURE
+![TravelinCloudArchitecture](https://github.com/Capstone-Bangkit-C242-PS538/TravelIn-Bangkit/blob/Cloud_Computing/Architecture/Travelin-Architecture.jpg)
 
 ## Google Cloud Pricing Calculator
 ![TravelinCloudArchitecture](https://github.com/Capstone-Bangkit-C242-PS538/TravelIn-Bangkit/blob/Cloud_Computing/Architecture/pricing.png)
@@ -27,9 +29,6 @@ The Google Cloud Pricing Calculator is used in our project to estimate and plan 
 [EstimatedCostperMonth](https://github.com/Capstone-Bangkit-C242-PS538/TravelIn-Bangkit/blob/Cloud_Computing/Estimated%20Cost%20of%20Travelin.pdf)
 
 
-
-## CLOUD ARCHITECTURE
-![TravelinCloudArchitecture](https://github.com/Capstone-Bangkit-C242-PS538/TravelIn-Bangkit/blob/Cloud_Computing/Architecture/Travelin-Architecture.jpg)
 
 ## TravelIn DOCUMENTATION API
 ![APIDOC](https://github.com/Capstone-Bangkit-C242-PS538/TravelIn-Bangkit/blob/Cloud_Computing/Architecture/Postman-logo-orange-2021_1155x.png)
