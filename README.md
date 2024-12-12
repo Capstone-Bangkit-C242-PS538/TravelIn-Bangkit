@@ -39,6 +39,16 @@ Dataset Links of This Project :
 
 - [TravelIn Dataset](https://github.com/Capstone-Bangkit-C242-PS538/TravelIn-Bangkit/blob/Machine_Learning/Dataset/tourid.csv)
 
+## Model Accurancy and Loss
+1. Train and Val Accuracy <br>
+![TravelinApp](link-gambar)<br>
+
+2. Train and Val Accuracy <br>
+![TravelinApp](link-gambar)<br>
+
+1. Trest Accurancy <br>
+![TravelinApp](link-gambar)<br>
+
 
 ## Instalasi
 Langkah-langkah untuk menginstal dan menjalankan proyek ini di mesin lokal Anda.
