@@ -31,6 +31,7 @@ We use Postman as a documentation of our API is because of its intuitive and str
 
 ## Google Cloud Pricing Calculator
 ![TravelinCloudArchitecture](https://github.com/Capstone-Bangkit-C242-PS538/TravelIn-Bangkit/blob/Cloud_Computing/Architecture/pricing.png)
+The Google Cloud Pricing Calculator is used in our project to estimate and plan cloud costs effectively. It provides detailed cost projections based on selected services, usage scenarios, and configurations. This tool helps ensure that we stay within budget, optimize resource allocation, and make informed decisions by comparing different setups and pricing options before implementation.
 
 [EstimatedCostperMonth](https://github.com/Capstone-Bangkit-C242-PS538/TravelIn-Bangkit/blob/Cloud_Computing/Estimated%20Cost%20of%20Travelin.pdf)
 
