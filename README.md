@@ -24,7 +24,7 @@ Cloud Computing have responsible for creating and managing APIs, databases and s
 ## TravelIn DOCUMENTATION API
 [TravelIn API Documentation on Postman](https://documenter.getpostman.com/view/39612721/2sAYBXAAAY)
 
-![APIDOC](https://github.com/Capstone-Bangkit-C242-PS538/TravelIn-Bangkit/blob/Cloud_Computing/Architecture/postman.jpg)
+![APIDOC]([https://github.com/Capstone-Bangkit-C242-PS538/TravelIn-Bangkit/blob/Cloud_Computing/Architecture/postman.jpg](https://github.com/Capstone-Bangkit-C242-PS538/TravelIn-Bangkit/blob/Cloud_Computing/Architecture/Postman-logo-orange-2021_1155x.png))
 
 
 ## Google Cloud Pricing Calculator
