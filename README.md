@@ -37,7 +37,7 @@ The TravelIn project aims to enhance the travel experience for tourists in Indon
 ## Dataset
 Dataset Links of This Project :
 
-- [Dataset 1](https://github.com/Capstone-Bangkit-C242-PS538/TravelIn-Bangkit/blob/Machine_Learning/tourid.csv)
+- [TravelIn Dataset](https://github.com/Capstone-Bangkit-C242-PS538/TravelIn-Bangkit/blob/Machine_Learning/tourid.csv)
 
 
 ## Instalasi
