@@ -14,6 +14,7 @@ Cloud Computing have responsible for creating and managing APIs, databases and s
 - JavaScript
 - Node js
 - Framework : Hapi js
+- Flask
 - Google Cloud Platform
 - Firebase
 - Postman
