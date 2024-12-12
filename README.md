@@ -38,7 +38,6 @@ The TravelIn project aims to enhance the travel experience for tourists in Indon
 Dataset Links of This Project :
 
 - [Dataset 1](..)
-- [Dataset 2](..)
 
 
 ## Instalasi
