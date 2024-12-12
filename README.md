@@ -2,13 +2,13 @@
 ## Bangkit Capstone Project
 
 Bangkit Capstone Team ID : C242-PS538	 <br>
-Here is our team Capstone Product Based repository for Bangkit 2024 Capstone project. Our team consist of 2 Mobile Development, 2 Machine Learning, and 1 Cloud Computing.
+Here is our team Capstone Product Based repository for Bangkit 2024 Capstone project. Our team consist of 2 Mobile Development, 3 Machine Learning, and 1 Cloud Computing students.
 
 
 |              Name              | Bangkit-ID |   Learning Path    |                                                       Contact Link                                                       |
 | :----------------------------: | :--------: | :----------------: | :----------------------------------------------------------------------------------------------------------------------: |
 | Samuel Christian Hamdani | M009B4KY4054	 |  Machine Learning |            [LinkedIn](https://www.linkedin.com/in/samuel-christian-hamdani) or [GitHub](...)             |
-| Michele Alvera Lolang |  M197B4KX2489		 |  Machine Learning |            [LinkedIn](https://www.linkedin.com/in/michelle-lolang/) or [GitHub](...)             |
+| Michelle Alvera Lolang |  M197B4KX2489		 |  Machine Learning |            [LinkedIn](https://www.linkedin.com/in/michelle-lolang/) or [GitHub](...)             |
 | Rendie Abdi Saputra |  M179B4KY3746		 |  Machine Learning |            [LinkedIn](https://www.linkedin.com/in/rendie-abdi-saputra-32b629258) or [GitHub](...)             |
 | Muhammad Reihan Alfarizi | C134B4KY3029		 |  Cloud Computing |            [LinkedIn](https://www.linkedin.com/in/muhammad-reihan-alfarizi-59b55a322) or [GitHub](...)             |
 | Daddiyan Ariev Imantha | C134B4KY0958 |  Cloud Computing |            [LinkedIn](https://www.linkedin.com/in/daddiyan-ariev-imantha) or [GitHub](https://github.com/DiyanZZ)             |
