@@ -33,3 +33,14 @@ The variables are user id, technicians id, repair needed, repair covered, rating
 
 ## HOW TO RECOMMEND
 The Machine Learning model can recommend the user with the nearest destination of their location based on the catgory they chose. 
+
+## Model Accurancy and Loss
+1. Train and Val MAE <br>
+![TravelinApp](https://github.com/Capstone-Bangkit-C242-PS538/TravelIn-Bangkit/blob/Machine_Learning/Assets/mae.jpg)<br>
+
+2. Train and Val Loss <br>
+![TravelinApp](https://github.com/Capstone-Bangkit-C242-PS538/TravelIn-Bangkit/blob/Machine_Learning/Assets/train.jpg)<br>
+
+1. Test Accurancy <br>
+![TravelinApp](https://github.com/Capstone-Bangkit-C242-PS538/TravelIn-Bangkit/blob/Machine_Learning/Assets/accurancy.jpg)<br>
+
