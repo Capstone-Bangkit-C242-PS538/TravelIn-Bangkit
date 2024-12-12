@@ -31,3 +31,5 @@ The variables are user id, technicians id, repair needed, repair covered, rating
 
 [Latest Dataset](https://github.com/Capstone-Bangkit-C242-PS538/TravelIn-Bangkit/blob/Machine_Learning/Dataset/tourid.csv)
 
+## HOW TO RECOMMEND
+The Machine Learning model can recommend the user with the nearest destination of their location based on the catgory they chose. 
