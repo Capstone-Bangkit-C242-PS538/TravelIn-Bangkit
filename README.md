@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # TravelIn: Personalized Travel Destination Recommendation using Collaborative and Content-Based Filtering
 ## Bangkit Capstone Project
 
