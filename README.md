@@ -21,4 +21,5 @@ building a native Android app using Kotlin in Android Studio, with a simple UI/U
 
 ## TravelIn Mockup Design 
 ![TravelinApp](https://github.com/Capstone-Bangkit-C242-PS538/TravelIn-Bangkit/blob/main/Assets/main.jpg)<br>
-MockUp Figma Link:[https://www.figma.com/design/bmd7zri3POBG8kpjI1SnBX/Untitled?node-id=0-1&node-type=canvas](https://www.figma.com/design/bmd7zri3POBG8kpjI1SnBX/Untitled?node-id=0-1&node-type=canvas)
+MockUp Figma Link:
+[https://www.figma.com/design/bmd7zri3POBG8kpjI1SnBX/Untitled?node-id=0-1&node-type=canvas](https://www.figma.com/design/bmd7zri3POBG8kpjI1SnBX/Untitled?node-id=0-1&node-type=canvas)
