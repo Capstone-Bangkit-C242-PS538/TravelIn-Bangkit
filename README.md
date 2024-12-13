@@ -20,7 +20,7 @@ The TravelIn project aims to enhance the travel experience for tourists in Indon
 
 ## Documentation
 
-![TravelinApp](link-gambar)<br>
+![TravelinApp](https://github.com/Capstone-Bangkit-C242-PS538/TravelIn-Bangkit/blob/main/Assets/main.jpg)<br>
 
 ## Repositories
 
