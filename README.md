@@ -50,5 +50,5 @@ Dataset Links of This Project :
 ![TravelinApp](https://github.com/Capstone-Bangkit-C242-PS538/TravelIn-Bangkit/blob/Machine_Learning/Assets/accurancy.jpg)<br>
 
 
-## Instalasi
+## Instalation
 Langkah-langkah untuk menginstal dan menjalankan proyek ini di mesin lokal Anda.
