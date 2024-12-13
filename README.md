@@ -42,7 +42,7 @@ We use Postman as a documentation of our API is because of its intuitive and str
 
 # How to Use the Endpoint
 
-## To interact with the `GET` endpoint `https://backend-service1-473303426237.asia-southeast2.run.app/places` in Postman, follow the steps below:
+1. To interact with the `GET` endpoint `https://backend-service1-473303426237.asia-southeast2.run.app/places` in Postman, follow the steps below:
 
 ### Prerequisites
 
@@ -81,18 +81,79 @@ We use Postman as a documentation of our API is because of its intuitive and str
 7. **Save the Request (Optional)**:
    - After you’ve verified that the request works, you can save it for later use by clicking the **Save** button.
 
-### Additional Notes:
-
-- **Credentials**: The `credentials.json` file typically contains sensitive data such as API keys, client secrets, and other authentication-related information. Always ensure it’s securely stored.
-- **Handling Credentials in Postman**: If you need to programmatically authenticate using your `credentials.json` (e.g., for OAuth 2.0 or Google API access), you might need to use Postman's scripting features or configure Postman to load the credentials dynamically.
-
 ### Troubleshooting:
 
 - **Authentication Issues**: If you receive authentication errors, double-check the credentials in your `credentials.json` file and ensure they are correctly configured in Postman.
 - **Request Failures**: If the request fails (e.g., returns 404 or 500 errors), verify that the API endpoint is correct and that the service is up.
-- 
-Here’s an example of how to interact with the endpoint using Postman:
+
+### Here’s an example of how to interact with the endpoint using Postman:
 ![Places Interface](https://github.com/Capstone-Bangkit-C242-PS538/TravelIn-Bangkit/blob/Cloud_Computing/Asset%20Endpoint/Places.png)
+
+***
+
+2. To interact with the `POST` endpoint `https://model-lokasi1-733147118446.asia-southeast2.run.app/predict` in Postman, follow the steps below:
+
+### Prerequisites
+
+- **Postman Installed**: Ensure you have Postman installed on your computer. You can download it from [here](https://www.postman.com/downloads/).
+- **API Access**: You'll need the credentials stored in a `credentials.json` file to authenticate and gain access to the API.
+
+### Steps to Call the API
+
+1. **Open Postman**:
+   - Launch Postman on your computer.
+
+2. **Create a New Request**:
+   - Click the **New** button in Postman.
+   - Select **Request** from the available options.
+   - Name your request (e.g., "Predict").
+   - Choose a collection or create a new one to save your request.
+   - Click **Save**.
+
+3. **Set the Request Type to POST**:
+   - In the new request window, select `POST` from the dropdown next to the URL input field.
+
+4. **Enter the API URL**:
+   - In the URL input field, enter the API endpoint: 
+     ```
+     https://model-lokasi1-733147118446.asia-southeast2.run.app/predict
+     ```
+
+5. **Set the Request Body**:
+   - In the **Body** tab of the Postman window, choose the `raw` option.
+   - Set the format to `JSON` from the dropdown next to `raw`.
+   - Add the following sample JSON to send the location data (latitude and longitude):
+     ```json
+     {
+       "lat": -6.915858891676989, 
+       "long": 107.61677942993981
+     }
+     ```
+     
+6. **Send the Request**:
+   - After setting up the request, click the **Send** button.
+   - Postman will process the request and display the response from the server.
+
+7. **Review the Response**:
+   - In the **Body** tab, you'll see the response from the API. If the request is successful, you’ll receive a list of nearby tourist destinations with details such as:
+     - Place name
+     - Category
+     - Rating
+     - Price
+     - Distance from the user
+     - Description, etc
+   - If there is an error (e.g., invalid credentials or endpoint not found), the error message will be displayed.
+
+8. **Save the Request (Optional)**:
+   - After you’ve verified that the request works, you can save it for later use by clicking the **Save** button.
+
+## Troubleshooting:
+
+- **Authentication Issues**: If you receive authentication errors, double-check the credentials in your `credentials.json` file and ensure they are correctly configured in Postman.
+- **Request Failures**: If the request fails (e.g., returns 404 or 500 errors), verify that the API endpoint is correct and that the service is up.
+
+### Here’s an example of how to interact with the endpoint using Postman:
+![Places Interface](https://github.com/Capstone-Bangkit-C242-PS538/TravelIn-Bangkit/blob/Cloud_Computing/Asset%20Endpoint/Predict.png)
 
 
 
