@@ -155,6 +155,9 @@ We use Postman as a documentation of our API is because of its intuitive and str
 ### Here’s an example of how to interact with the endpoint using Postman:
 ![Places Interface](https://github.com/Capstone-Bangkit-C242-PS538/TravelIn-Bangkit/blob/Cloud_Computing/Asset%20Endpoint/Predict.png)
 
+## For complete Documentation, please visit [Travelin API Documentation](https://documenter.getpostman.com/view/39612721/2sAYBXAAAY).
+
+
 
 
 
