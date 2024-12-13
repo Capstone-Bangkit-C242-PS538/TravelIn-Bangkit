@@ -51,4 +51,4 @@ Dataset Links of This Project :
 
 
 ## Instalation
-![Download The App](https://github.com/Capstone-Bangkit-C242-PS538/TravelIn-Bangkit/blob/main/Assets/TravelIn.apk)<br>
+[Download The App](https://github.com/Capstone-Bangkit-C242-PS538/TravelIn-Bangkit/blob/main/Assets/TravelIn.apk)<br>
